@@ -1,5 +1,5 @@
 import './App.css';
-import OneInputForm from '../OneInputForm';
+import OneInputForm from './components/OneInputForm';
 
 function App() {
   return (

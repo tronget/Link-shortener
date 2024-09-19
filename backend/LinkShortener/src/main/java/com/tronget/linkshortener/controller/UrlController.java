@@ -11,6 +11,7 @@ import org.springframework.web.servlet.view.RedirectView;
 
 @RestController
 @RequestMapping("/api")
+@CrossOrigin(origins = "https://shrtner.onrender.com")
 @EnableConfigurationProperties(AppConfig.class)
 public class UrlController {
 

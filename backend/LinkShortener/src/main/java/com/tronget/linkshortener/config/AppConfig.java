@@ -9,4 +9,5 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @Setter
 public class AppConfig {
     private String baseUrl;
+    private String clientUrl;
 }

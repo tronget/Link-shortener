@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="link_shortener_a0jj@dpg-crlt3uo8fa8c739ta2fg-a.virginia-postgres.render.com" uuid="3ccf20ba-762e-48d9-b3a4-936f43daad96">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dpg-crlt3uo8fa8c739ta2fg-a.virginia-postgres.render.com:5432/link_shortener_a0jj</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

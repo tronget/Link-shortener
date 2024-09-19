@@ -20,7 +20,7 @@ export default function OneInputForm({info="info"}) {
 				setError("Вы передали не ссылку!");
 				return;
 			}
-			const response = await fetch("api", {
+			const response = await fetch("https://shrtner-api.onrender.com/api", {
 				method: "POST",
 				headers: {
 					"Content-Type": "plain/text;charset=utf-8"
